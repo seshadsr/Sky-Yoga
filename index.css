@@ -1,0 +1,207 @@
+.desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 16px;
+  width: 1440px;
+  height: 588px;
+  object-fit: cover;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 1239px;
+  left: calc(50% - 768px);
+  background-color: var(--footer-color);
+  width: 1488px;
+  height: 392px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 978px;
+  left: 655px;
+  width: 8px;
+  height: 22px;
+  overflow: hidden;
+}
+.image-2-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 684px;
+  left: 0;
+  width: 825px;
+  height: 503px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 1342px;
+  left: 1228px;
+  width: 68px;
+  height: 70px;
+}
+.maharishi {
+  color: #0047ff;
+}
+.vethathiri-maharishi {
+  position: absolute;
+  top: 723px;
+  left: 720px;
+  font-size: 65px;
+  font-family: var(--font-jura);
+}
+.shri-vethathiri-maharishi {
+  margin: 0;
+}
+.shri-vethathiri-maharishi-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 738px;
+  height: 290px;
+}
+.shri-vethathiri-maharishi-was-wrapper {
+  position: absolute;
+  top: 855px;
+  left: 720px;
+  width: 738px;
+  height: 290px;
+}
+.home,
+.lessons,
+.opinions {
+  position: absolute;
+  top: 39px;
+  left: 895px;
+  font-weight: 800;
+  color: var(--color-white);
+  display: inline-block;
+  width: 264px;
+  height: 123px;
+}
+.lessons,
+.opinions {
+  left: 1056px;
+}
+.lessons {
+  left: 1262px;
+  height: 110px;
+}
+.image-3-icon,
+.image-4-icon {
+  position: absolute;
+  top: 18px;
+  left: 22px;
+  width: 176px;
+  height: 164px;
+  object-fit: cover;
+}
+.image-4-icon {
+  top: 1239px;
+  left: 0;
+}
+.lesson {
+  color: #0e24ec;
+}
+.ready-for-a-container {
+  position: absolute;
+  top: 1266px;
+  left: 417px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  width: 672px;
+  height: 193px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.image-5-icon {
+  position: absolute;
+  top: 1504px;
+  left: 46px;
+  width: 85px;
+  height: 70px;
+  object-fit: cover;
+}
+.seshadsrgmailcom {
+  position: absolute;
+  top: 1513px;
+  left: 170px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  width: 606px;
+  height: 61px;
+}
+.image-6,
+.image-7-icon {
+  position: absolute;
+  top: 1496px;
+  left: 851px;
+  width: 96px;
+  height: 78px;
+}
+.image-7-icon {
+  top: 1471px;
+  left: 834px;
+  width: 129px;
+  height: 135px;
+  object-fit: cover;
+}
+.b {
+  position: absolute;
+  top: 1510px;
+  left: 1000px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  width: 430px;
+  height: 64px;
+}
+.us {
+  color: #1400ff;
+}
+.contact-us {
+  position: absolute;
+  top: 1380px;
+  left: 380px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 583px;
+  height: 79px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1599px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.image-1-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 1321px;
+  left: 1109px;
+  width: 88px;
+  height: 109px;
+  object-fit: cover;
+  z-index: 1;
+}
+.desktop-1-parent,
+.frame-parent {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.desktop-1-parent {
+  gap: 10px;
+}
+.frame-parent {
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-kanit);
+}
